@@ -45,4 +45,6 @@ Some potential future improvements for this project include:
 - Integrating athlete-level statistics such as age, gender, and performance metrics.
 - Using Power BI’s AI visuals to forecast medal trends for upcoming Olympics.
 - Comparing medal counts based on population size or GDP for normalized insights.
+
+  
 ![Olympic Data Anlaysis](https://github.com/user-attachments/assets/d33cb48e-29d5-4c9c-a9e9-6fc3d31386c4)
